@@ -1,0 +1,51 @@
+body{
+    background-image: url(C:\\Users\\Юра\\Desktop\\starbacks\\photo\\images9.jpg);
+  	background-repeat: no-repeat;
+  	background-position: center center;
+  	background-attachment: fixed;
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+.city{
+	background-color: black;
+	color:white;
+	text-align:center;
+}
+p{
+	border:2xp solid powerblue;
+}
+.a{
+	border: 5px solid darkblue;
+	height: 500px;
+	width: 400px;
+
+	position: absolute;
+	top: 70;
+
+	text-align: center;
+}
+.b{
+	border: 5px solid darkblue;
+	height: 350px;
+	width: 400px;
+
+	position: absolute;
+	left:470px;
+	top: 150px;
+
+	text-align: center;
+}
+.c{
+	border: 5px solid darkblue;
+	height: 500px;
+	width: 400px;
+
+	position: absolute;
+	left: 930px;
+	height: 500px;
+	top: 70px;
+
+	text-align: center;
+}
